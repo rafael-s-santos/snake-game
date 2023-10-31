@@ -7,7 +7,7 @@ EN | [PT](https://github.com/rafael-s-santos/snake-game/blob/main/resources/READ
 
 This is a simple Snake game built in Python using the Turtle Graphics library. The game allows you to control a snake that grows every time it eats "food" and keeps track of your score based on the amount of food consumed. The game ends when the snake collides with the window's edges or itself.
 
-<h2 align="center">How to Play</h2>
+<h2 align="center">🎮 How to Play</h2>
 
 
 Clone the repository to your computer:
