@@ -1,6 +1,6 @@
 <h1 align="center">Snake Game em Python com Turtle Graphics</h1>
 
-<p align="center"><img src="/jogando.gif" height="320" /></p>
+<p align="center"><img src="jogando.gif" height="320" /></p>
 
 [EN](https://github.com/rafael-s-santos/snake-game) | PT
 
@@ -44,10 +44,10 @@ Use as teclas de seta (cima, baixo, esquerda e direita) para controlar a direç�
 <h2 align="center">Situações de Game Over</h2>
 
 <p align="center">Colisão com as bordas da janela</p>
-<p align="center"><img src="/colisao_borda.gif" height="320" /></p>
+<p align="center"><img src="colisao_borda.gif" height="320" /></p>
 
 <p align="center">Colisão consigo mesma</p>
-<p align="center"><img src="/colisao_propria.gif" height="320" /></p>
+<p align="center"><img src="colisao_propria.gif" height="320" /></p>
 
 Aproveite o jogo e divirta-se! 🕹️🐍
 
