@@ -12,7 +12,7 @@ This is a simple Snake game built in Python using the Turtle Graphics library. T
 
 Clone the repository to your computer:
 ```
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/rafael-s-santos/snake-game.git
 ```
 
 Ensure you have Python installed on your system. If not, download and install it from python.org.
@@ -27,9 +27,7 @@ Run the game:
 python main.py
 ```
 
-- Use the arrow keys (up, down, left, and right) to control the snake's direction. Try to collect food to score points and make the snake grow.
-- The game ends when the snake collides with the window's edges or itself.
-
+Use the arrow keys (up, down, left, and right) to control the snake's direction. 
 
 <h2 align="center">Snake Game in Python with Turtle Graphics</h2>
 
@@ -59,4 +57,4 @@ python main.py
 
 
 
-Enjoy the game and have fun!
+Enjoy the game and have fun! 🕹️🐍
